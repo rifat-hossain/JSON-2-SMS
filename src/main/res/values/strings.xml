@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JSON2SMS</string>
+    <string name="send_to_all">SEND to All</string>
+    <string name="browse">Browse</string>
+    <string name="recipients">0 Recipient</string>
+    <string name="logo">Logo</string>
+    <string name="hlp">
+        Instructions:\n\n
+        \t1. Click on BROWSE and select required JSON file.\n
+        \t2. Recipients number shows to how many people you are going to send sms to.\n
+        \t3. Click on SEND TO ALL to send.\n
+        \n\n
+        Example JSON file structure:
+        \n\n
+        \t{\"SMSs\":[\n
+        \t\t{\"To\":\"+8801231231231\",\"Body\":\"Sms body\"}\n
+        \t]}
+    </string>
+</resources>
