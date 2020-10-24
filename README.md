@@ -5,7 +5,7 @@ Send Bulk SMS by using JSON file on Android
 [v1.0](https://github.com/rifat-hossain/JSON-2-SMS/releases/tag/1.0)
 
 # How to use
-Download binary (\*.apk) from one of the releases showed above and install on your mobile device. Then create a JSON file containing all the information about the recipients and text-bodies to send as sms. An example of the required json file struckture is given below-
+Download binary (\*.apk) from one of the releases showed above and install on your mobile device. Then create a JSON file containing all the information about the recipients and text-bodies to send as sms. An example of the required json file structure is given below-
 ```
 {
   "SMSs":
