@@ -1,4 +1,5 @@
 # JSON-2-SMS
+<img align="right" alt="GIF" src="https://github.com/rifat-hossain/rifat-hossain.github.io/blob/master/images/json2sms2.png?raw=true"/>
 Send Bulk SMS by using JSON file on Android
 
 # Releases
